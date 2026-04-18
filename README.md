@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🔐 VPN VLESS Configs Russia
@@ -102,26 +103,13 @@
 
 ## 🚀 Quick Start
 
-### 1️⃣ Cloudflare Worker Subscription (Рекомендуется)
+### 1️⃣ Cloudflare Worker подписка (временно недоступна)
 
-**Универсальная подписка с автообновлением:**
+> 🔒 Внимание: Cloudflare Workers сейчас частично блокируются в РФ, поэтому **подписка через `vlesstrojan.alexanderyurievich88.workers.dev` временно отключена** и ссылки убраны, чтобы не оставлять нерабочие конфиги и мёртвые подписки.
 
-```
-https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub
-```
+> 🔁 Как только ситуация стабилизируется и доступ к Cloudflare Workers станет более предсказуемым, здесь снова появятся **актуальные подписочные ссылки**.
 
-**С фильтрами:**
-
-```bash
-# Только VLESS
-https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&filter=vless
-
-# VLESS с WARP
-https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&filter=vless&warp=on
-
-# Кастомное имя
-https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&name=MyVPN
-```
+> 📝 Пока используйте прямую загрузку с GitHub (см. пункт ниже) или локальный запуск скриптов.
 
 ### 2️⃣ Прямая загрузка с GitHub
 
@@ -154,22 +142,22 @@ cat githubmirror/clean/vless.txt | head -10
 1. Скачать: [hiddify.com](https://hiddify.com)
 2. Открыть → **Add Profile** → **Subscription URL**
 3. Вставить:
-   ```
-   https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub
-   ```
+   - пока Cloudflare-подписка временно отключена, используйте:
+     - прямой импорт отдельных ссылок из файлов `githubmirror/clean/*.txt`
+     - либо свой собственный backend/подписку
 4. **Import** → выбрать сервер
 
 ### V2RayN (Windows)
 
 1. **Подписка** → **Группы подписок** → **Добавить**
-2. Вставить URL подписки
+2. Указать свой рабочий URL подписки или локальный/самостоятельный endpoint
 3. **Обновить подписку** → выбрать сервер
 4. Правая кнопка → **Test Real Latency** (выбрать быстрый)
 
 ### V2RayNG (Android)
 
 1. **Menu (≡)** → **Подписки** → **+**
-2. **URL** → вставить ссылку → **OK**
+2. **URL** → вставить ваш URL подписки → **OK**
 3. **Обновить подписку** → выбрать сервер
 
 ### Clash Meta / Mihomo
@@ -178,7 +166,7 @@ cat githubmirror/clean/vless.txt | head -10
 proxy-providers:
   vless-sub:
     type: http
-    url: "https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&filter=vless"
+    url: "https://<your-own-endpoint>/sub?filter=vless"
     interval: 3600
     path: ./providers/vless.yaml
     health-check:
@@ -190,65 +178,63 @@ proxy-providers:
 ---
 
 ## 📂 Project Structure
-
-```
 vpn-vless-configs-russia/
 ├── 📁 githubmirror/
-│   ├── 📁 clean/                    # Все валидные конфигурации
-│   │   ├── vless.txt               # 1247 VLESS configs
-│   │   ├── vmess.txt               # 892 VMess configs
-│   │   ├── trojan.txt              # 534 Trojan configs
-│   │   └── ss.txt                  # 312 Shadowsocks configs
-│   └── 📁 ru-sni/                   # Только RU/CIS серверы
-│       ├── vless_ru.txt            # 342 RU VLESS
-│       ├── vmess_ru.txt            # 198 RU VMess
-│       └── ...
+│ ├── 📁 clean/ # Все валидные конфигурации
+│ │ ├── vless.txt # 1247 VLESS configs
+│ │ ├── vmess.txt # 892 VMess configs
+│ │ ├── trojan.txt # 534 Trojan configs
+│ │ └── ss.txt # 312 Shadowsocks configs
+│ └── 📁 ru-sni/ # Только RU/CIS серверы
+│ ├── vless_ru.txt # 342 RU VLESS
+│ ├── vmess_ru.txt # 198 RU VMess
+│ └── ...
 ├── 📁 vpn-files/
-│   ├── all_posts.txt               # История постов
-│   └── post_YYYYMMDD_HHMMSS.txt   # Последние посты
-├── 📁 subscriptions/                # Subscription форматы
-├── 📁 data/                         # Служебные данные
-├── 📄 main.py                       # Основной оркестратор
-├── 📄 mirror.py                     # Сборщик конфигураций
-├── 📄 filter_ru_sni.py              # Географический фильтр
-└── 📄 requirements.txt              # Python зависимости
-```
+│ ├── all_posts.txt # История постов
+│ └── post_YYYYMMDD_HHMMSS.txt # Последние посты
+├── 📁 subscriptions/ # Subscription форматы
+├── 📁 data/ # Служебные данные
+├── 📄 main.py # Основной оркестратор
+├── 📄 mirror.py # Сборщик конфигураций
+├── 📄 filter_ru_sni.py # Географический фильтр
+└── 📄 requirements.txt # Python зависимости
+
+text
 
 ---
 
 ## 🔄 Автоматизация
 
 ### GitHub Actions Workflow
-
-```
 ┌─────────────────────────────────────┐
-│  GitHub Actions (Every 15 min)     │
+│ GitHub Actions (Every 15 min) │
 └──────────────┬──────────────────────┘
-               │
+│
 ┌──────────────▼──────────────────────┐
-│  1. 📥 Сбор конфигураций            │
-│     • GitHub (50+ repos)            │
-│     • Telegram (@vlesstrojan)       │
-│     • RSS Aggregators               │
+│ 1. 📥 Сбор конфигураций │
+│ - GitHub (50+ repos) │
+│ - Telegram (@vlesstrojan) │
+│ - RSS Aggregators │
 └──────────────┬──────────────────────┘
-               │
+│
 ┌──────────────▼──────────────────────┐
-│  2. 🔍 Фильтрация                   │
-│     • Дедупликация (MD5)            │
-│     • Geo-фильтр (RU/EU/CIS)        │
-│     • Валидация синтаксиса          │
+│ 2. 🔍 Фильтрация │
+│ - Дедупликация (MD5) │
+│ - Geo-фильтр (RU/EU/CIS) │
+│ - Валидация синтаксиса │
 └──────────────┬──────────────────────┘
-               │
+│
 ┌──────────────▼──────────────────────┐
-│  3. 💾 Сохранение                   │
-│     • clean/ (2985 configs)         │
-│     • ru-sni/ (672 configs)         │
+│ 3. 💾 Сохранение │
+│ - clean/ (2985 configs) │
+│ - ru-sni/ (672 configs) │
 └──────────────┬──────────────────────┘
-               │
+│
 ┌──────────────▼──────────────────────┐
-│  4. 📤 Commit & Push                │
+│ 4. 📤 Commit & Push │
 └─────────────────────────────────────┘
-```
+
+text
 
 **Расписание:**
 - ⏰ Каждые 15 минут (автоматически)
@@ -501,8 +487,6 @@ SOURCES = [
 ## 📜 License
 
 ### MIT License с ограничениями
-
-```
 Copyright (c) 2026 VPN VLESS Configs Russia
 
 РАЗРЕШЕНО:
@@ -520,7 +504,8 @@ Copyright (c) 2026 VPN VLESS Configs Russia
 ⚠️ Нарушение законодательства
 ⚠️ Утечки данных
 ⚠️ Блокировки провайдерами
-```
+
+text
 
 Полный текст: [LICENSE](LICENSE)
 
