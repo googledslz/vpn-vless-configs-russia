@@ -30,8 +30,8 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt requests
 
-      - name: Create config_sources.txt from VPN_SOURCES secret
-        run: echo "${{ secrets.VPN_SOURCES }}" > config_sources.txt
+      - name: Create config_sources.json from VPN_SOURCES secret
+        run: echo '${{ secrets.VPN_SOURCES }}' > config_sources.json
 
       - name: Update githubmirror (mirror.py)
         run: python mirror.py
