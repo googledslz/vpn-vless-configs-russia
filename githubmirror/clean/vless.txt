@@ -150,7 +150,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.239.172:22222?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.233.240:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.249.54:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2ftelegram-channel-vlessconfig-ws#%f0%9f%87%a8%f0%9f%87%a6_CA_%e5%8a%a0%e6%8b%bf%e5%a4%a7_174
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.101.114:22222?encryption=none&security=tls&type=ws&sni=telegram-channel-vlessconfig.sohala.uk&host=telegram-channel-vlessconfig.sohala.uk&path=%2ftelegram-channel-vlessconfig-ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%E6%B3%95%E5%9B%BD%2024
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.12.141:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.12.141:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4FreeIran-4967
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.182.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4FreeIran-4968
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.2.109:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -187,7 +187,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.163.171:22224?path=%2Ftelegr
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.174.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#4FreeIran-4975
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.195.224:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.219.138:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4FreeIran-4976
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.0.159:22224?type=ws&amp;security=tls&amp;path=/telegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.0.159:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.207.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4FreeIran-4978
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.206.206:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&encryption=none#%F0%9F%87%A9%F0%9F%87%AA_DE_688
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.155.97:22222?encryption=none&security=tls&type=ws&sni=telegram-channel-vlessconfig.sohala.uk&host=telegram-channel-vlessconfig.sohala.uk&path=%2ftelegram-channel-vlessconfig-ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%E5%BE%B7%E5%9B%BD%2023
@@ -240,6 +240,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.221.215.249:22222?encryption=non
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.173.186:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&encryption=none#%F0%9F%87%AB%F0%9F%87%B7_FR_135
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.62.11:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&encryption=none#%F0%9F%87%AB%F0%9F%87%B7_FR_692
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.114.99:22222?encryption=none&security=tls&type=ws&sni=telegram-channel-vlessconfig.sohala.uk&host=telegram-channel-vlessconfig.sohala.uk&path=%2ftelegram-channel-vlessconfig-ws#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_10
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.101.255:22224?type=ws&amp;security=tls&amp;path=/telegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.193:22224?type=ws&amp;security=tls&amp;path=/telegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.34.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4FreeIran-4991
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.237:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -1874,6 +1875,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.152.234:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#🇳🇱
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🇪🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#🇬🇧
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#@GozargahAzad|🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.192.237.186:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#🇰🇿
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🇰🇿
@@ -3244,6 +3246,7 @@ vless://d6e6f9fd-8bc5-45c0-b456-f545aa879d0a@45.33.107.237:443?type=tcp&amp;path
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@172.67.156.27:443?security=tls&sni=unmanliest.appreviewcenter.com&fp=chrome&type=ws&path=/nimws&host=unmanliest.appreviewcenter.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20,%20Strasbourg
 vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&security=reality&sid=911451a18252bb5a&sni=www.microsoft.com&type=tcp#🇩🇪[openproxylist.com]
 vless://d727ba19-4f1a-490f-a624-e10a7b76dac0@188.114.96.2:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=WebSite.agV2raYes.Top#GERMANY+🇩🇪
+vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@GozargahAzad|🇩🇪
 vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.36.250.77:8088?encryption=none&security=tls&sni=aparat.com.amico1.dynu.com&type=tcp&headerType=none#%f0%9f%87%ab%f0%9f%87%b7%2fFR%2f%e6%b3%95%e5%9b%bd%2f246
 vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.39.240.178:8088?encryption=none&security=tls&sni=aparat.com.amico1.dynu.com&type=tcp&headerType=none#%f0%9f%87%ab%f0%9f%87%b7%2fFR%2f%e6%b3%95%e5%9b%bd%2f116
 vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.39.245.180:8088?encryption=none&security=tls&sni=aparat.com.amico1.dynu.com&type=tcp&headerType=none#%f0%9f%87%ab%f0%9f%87%b7%2fFR%2f%e6%b3%95%e5%9b%bd%2f238
