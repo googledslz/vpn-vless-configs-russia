@@ -4,35 +4,41 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write   # ⬅️ даём права на push
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    
+
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install requests
       run: pip install requests
-    
+
     - name: Create config_sources.json from secret
       run: echo '${{ secrets.VPN_SOURCES }}' > config_sources.json
-    
+
     - name: Run mirror.py
       run: python mirror.py
-    
+
     - name: Commit new configs
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        # Добавляем только существующие директории, игнорируем ошибки
         git add githubmirror/ --ignore-errors || true
         git add clean/ --ignore-errors || true
+        # Если нет изменений — выходим
         if git diff --cached --quiet; then
           echo "No changes to commit"
-        else
-          git commit -m "Auto-update $(date)"
-          git push
+          exit 0
         fi
+        # Коммитим и пушим
+        git commit -m "Auto-update $(date)"
+        git push
