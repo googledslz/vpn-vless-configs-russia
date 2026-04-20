@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🔐 VPN VLESS Configs Russia
@@ -8,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Auto Update](https://img.shields.io/badge/Auto_Update-Every_15min-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status
 
 </div>
 
