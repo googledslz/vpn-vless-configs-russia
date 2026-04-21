@@ -30,6 +30,7 @@ vless://00000000-0000-4000-8000-000000000000@144.91.69.217:8401?allowInsecure=1&
 vless://00000000-0000-4000-8000-000000000000@144.91.69.217:8401?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇫🇷
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇬🇧[openproxylist.com]
 vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇩🇪
+vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#🇩🇪
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=/#🇩🇪
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇩🇪
 vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇫🇷
@@ -497,4 +498,3 @@ vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed#hamedvpns-52-%F0%9F%87%AB%F0%9F%87%AE
 vless://097ab42d-c4dd-4a69-9b4b-92f0da96299e@137.74.66.90:57254?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#🇫🇷+فرانسه+🕊️@Gozargah_Azadi
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp
-vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
