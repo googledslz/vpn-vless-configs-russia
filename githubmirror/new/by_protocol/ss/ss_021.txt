@@ -1,3 +1,10 @@
+ss://d35900ef-0dbc-4e38-bab3-d6169b180c96@79.137.175.44:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=m.vk.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23228
+ss://d35900ef-0dbc-4e38-bab3-d6169b180c96@87.239.106.153:8443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#0426%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20VLESS%20%7C%20TG:%20@YoutubeUnBlockRu
+ss://d36ffc6c-6a4d-4298-8c79-431f6fc4ada6@lb1.aliusvpn.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aliusfilms.ru&fp=random&security=reality&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#AutoAiVPN15126789
+ss://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&amp;security=tls&amp;encryption=none&amp;host=hazmkardan.info&amp;type=ws&amp;sni=hazmkardan.info#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://d3b71935-8c7d-400b-91de-6202840c0ea2@GERMANY.TORPROSPEED.IR:250?security=reality&type=tcp&sni=zhaket.com&fp=chrome&sid=11e272502d739a32&pbk=ZOyMDA__RlDV75g7zASfK4YqrFQsqPz7SAw6QuE-gAM#AutoAiVPN14313523
+ss://d3dfba4e-31e5-47ea-8ac4-56af4dbb6a88@91.107.253.242:1025?security=reality&encryption=none&pbk=PjdMp0g9LlKXNW83Qo1taHXr2TUTWwdFfZmsOxhY5Uk&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=refersion.com#AutoAiVPN14929432
 ss://d3dfba4e-31e5-47ea-8ac4-56af4dbb6a88@bahbah.khoreshtsabzi.ir:1025?security=reality&type=tcp&sni=refersion.com&fp=firefox&pbk=PjdMp0g9LlKXNW83Qo1taHXr2TUTWwdFfZmsOxhY5Uk&encryption=none#AutoAiVPN14939196
 ss://d3e684e2-1b3a-41a2-ba19-5a84a8ca2122@217.16.18.50:443?security=reality&amp;encryption=none&amp;pbk=l7cLIMrQQPS1LCyzgqCqP9O1rvoIanR9Npa3lYrz2xI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=c050b3628fab#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://d42c146e-2ded-4b4a-8592-6459ac636910@spb.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#AutoAiVPN12512756
@@ -491,10 +498,3 @@ ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.238.228.29:8880#GB%F0%9F%87%AC%F0%
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@45.67.215.29:8880#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.67.215.29-8880+%7C+2.46ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.232.140.20:8880#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+77.232.140.20-8880+%7C+2.05ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@88.216.66.29:8880#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+88.216.66.29-8880+%7C+2.31ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.113:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.113-8880+%7C+2.22ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.118:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.118-8880+%7C+6.14ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.123:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.123-8880+%7C+2.1ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.124:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.124-8880+%7C+2.63ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.143:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.143-8880+%7C+3.29ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.149:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.149-8880+%7C+3.7ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.159:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.159-8880+%7C+2.61ms
