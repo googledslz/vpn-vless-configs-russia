@@ -15,13 +15,13 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tl
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?insecure=1#9%7CAll-%40V2rayAlpha--33
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#9%7CAll-%40V2rayAlpha--46
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&amp;obfs=salamander&amp;obfs-password=FnFgQIckcMRtKq7i&amp;insecure=1&amp;mport=50000-60000&amp;sni=Ab.ac#🇳🇱
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:443/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20YA
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20YA
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041/?insecure=1&sni=market.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?insecure=1&sni=bing.com#UK%E5%AE%B6%E5%AE%BD
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?insecure=1&sni=bing.com#telegram%20%C2%BB%20mainv%F0%9D%9F%AEray%C2%B3
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?insecure=1&sni=bing.com#All-%23V2rayAlpha--14
@@ -58,21 +58,21 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tl
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443?insecure=0&sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk#All-%40V2ray_Alpha--7%20%231
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#9%7CAll--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8%20%234
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283/?sni=www.microsoft.com#0227 | 🇫🇷 France | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://dongtaiwang.com@163.172.113.118:41283/?sni=www.microsoft.com#0925 | 🇫🇷 France | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇷
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#🇳🇱 [AS214639] ITM NORD AS #1 (apple.com)
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=apple.com#🇫🇷
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG%20%236
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
-hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443/?insecure=1&sni=dbp.qzz.io#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Bad%20Soden%20am%20Taunus%20%28Neuenhain%29%20%7C%20%5BBL%5D
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#🇫🇮FI%20%20ROSE—04
 hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#🇦🇹AT%20%20ROSE—06
 hysteria2://germany_hysteria2_fastlane_wxue2k6d6:3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&amp;insecure=1&amp;sni=de2.h.fastlanehosting.ru#@darktunnelvip1
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D
 hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.3MB%2Fs
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.3MB%2Fs
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_3%7C3.4MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C3.3MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-004.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-uk-004.fastervpn.world&insecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914/?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#🇫🇷FR%20%20ROSE—03

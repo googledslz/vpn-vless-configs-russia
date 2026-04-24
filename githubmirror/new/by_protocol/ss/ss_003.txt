@@ -7,7 +7,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.64.14:22224?type=ws&security=tls
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.88.6:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN11492035
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5701430
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.94.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12703345
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.237:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12757572
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.13.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21195075
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.22.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16700501
@@ -498,3 +497,4 @@ ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:2083?path=%2Fvlessws
 ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243726
 ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243727
 ss://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=google.com&amp;type=ws#%40V2rayNG3
+ss://2197f2f3-7634-4609-a525-7361b1d4782d@France.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN5876029
