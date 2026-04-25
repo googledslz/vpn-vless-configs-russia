@@ -1,19 +1,20 @@
 name: Parse mermeroo SUB LINKS
-
 on:
-  workflow_dispatch:        # запуск руками из Actions
+  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # каждые 6 часов (по UTC)
+    - cron: "0 */6 * * *"
 
 jobs:
   run-parser:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # нужно, чтобы пушить изменения
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,13 +27,13 @@ jobs:
           pip install requests
 
       - name: Run parser
-        run: |
-          python parse_mermeroo.py
+        run: python parse_mermeroo.py
 
       - name: Commit & push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add mermeroo_sources.txt
-          git diff --cached --quiet || git commit -m "Update mermeroo_sources"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update mermeroo_sources"
+          file_pattern: "mermeroo_sources.txt"
+          branch: main
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
