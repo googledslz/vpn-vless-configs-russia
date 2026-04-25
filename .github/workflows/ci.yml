@@ -18,6 +18,12 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # ✅ Сбрасываем локальную ветку до состояния удалённой ПЕРЕД генерацией новых файлов
+      - name: Reset local branch to origin/main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -43,12 +49,6 @@ jobs:
         run: python main.py
         timeout-minutes: 45
 
-      # Важно: сбросить локальную ветку до состояния удалённой (удаляем накопившиеся коммиты)
-      - name: Reset local branch to origin/main
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-
       - name: Commit & Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -57,4 +57,3 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
-          # Никаких push_options или rebase
