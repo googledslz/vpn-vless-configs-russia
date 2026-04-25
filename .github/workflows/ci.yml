@@ -35,19 +35,19 @@ jobs:
       - name: Update githubmirror (mirror.py)
         run: python mirror.py
         timeout-minutes: 30
-        env:
-          PYTHONUNBUFFERED: '1'
 
       - name: Merge sources from proxy-collect manifest
         run: python proxy_collect_merge.py
-        env:
-          PYTHONUNBUFFERED: '1'
 
       - name: Run Checker Script
         run: python main.py
         timeout-minutes: 45
-        env:
-          PYTHONUNBUFFERED: '1'
+
+      # Важно: сбросить локальную ветку до состояния удалённой (удаляем накопившиеся коммиты)
+      - name: Reset local branch to origin/main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Commit & Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -57,5 +57,4 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
-          rebase: true        # вместо force-push делает pull --rebase
-          # push_options: ''   # убираем force-push, так как он запрещён
+          # Никаких push_options или rebase
