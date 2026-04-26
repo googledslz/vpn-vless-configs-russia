@@ -1,36 +1,3 @@
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4FreeIran-4989
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Mohsen-4106
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp # 🔒 [By EbraSha]
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.28:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4FreeIran-4990
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.28:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Mohsen-4107
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.28:889?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp # 🔒 [By EbraSha]
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4FreeIran-4991
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4Mohsen-4108
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=🔒 [By EbraSha]&type=tcp # 🔒 [By EbraSha]
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.34:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4FreeIran-4992
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.34:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Mohsen-4109
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.34:889?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp # 🔒 [By EbraSha]
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4FreeIran-4993
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#4Mohsen-4110
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp # 🔒 [By EbraSha]
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#🇩🇪@FreakConfig
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&amp;security=tls&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=reDfRee8.REDFree8.ir#🇩🇪19924
-trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_4%20%F0%9F%A7%AD%204.6MB%2Fs`
-trojan://POORIARED@172.67.134.185:443?type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#[🇩🇪] [tr-tl-ws] [251218-102718.357]
-trojan://Q0Jqz6dchw@tunnel.vpns.fun:2053?security=tls&sni=vilnius.vpns.fun&allowInsecure=1&type=ws&path=/cdnmui&host=vilnius.vpns.fun#%F0%9F%8E%84%20@VilniusVPN%20-%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://Q78UNLOg1VquAOOgiavnsA@62.133.60.60:2083?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=tls&type=ws&sni=h110vpngermany.outlinekeys.net#AutoAiVPN7746341
-trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&headerType=none&fp=chrome&type=tcp#AutoAiVPN10369035
-trojan://RK_VPS@79.137.195.203:443?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@RK_VPS
-trojan://RK_VPS@www.speedtest.net:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
-trojan://RK_VPS@www.zula.ir:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
-trojan://RK_VPS___RK_VPS@www.speedtest.net:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All¹🇩🇪@Rk_VPS
-trojan://RK_VPS___RK_VPS@www.zula.ir:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All²🇩🇪@Rk_VPS
-trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010/?type=tcp&security=tls&sni=ukmydxecn.jidxalgzyh.click&allowInsecure=1#AutoAiVPN12518983
-trojan://R_UGZWorVec%23sqyB@64.176.13.78:18010?security=tls&sni=ukmydxecn.jidxalgzyh.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1%20CL-2
-trojan://SPn9Voxk9csoQVQyWKQNQvJ6teu6iAcU7fbrp+J/EArSchRxiz4104svvUTNpAX3jejwxAvpVoA7KUFwJ3cQ5ODFm1h5jJhxgwgxjIiWqA3WzZWbi9K2yb4vkU7wGaD6DpyZd+96cPPKKHtTw1qqLLdVIrEP2reKkp1Q0b4KaBlJIGX2h335OBjQtBkxDRsCeA/ssVi/GcUtho1amttNk+yWWUFuSyA8eio1ONYOzes=ar-ssr://R368wkE5UjSkXq0sb48EJBpAmm3RYPTS4OeBjlKlPhW6XDgrHowMWVIvBXOgabuBrLsUKoVNgEfCOODe6p3nfTauMmobLVVZbd1V2+VrG6tG2b9ZGfk3WpEvpjI/IlrcnRFuP6S3G+He8x5X+lngN+pYaq2WCJ3R5EK7D81Y61VRzo2riCJiHj41vHbLuMAik4b55FksZpJ6BDq4MqDn+2MEJR9kruKEusgwFIwd4s4=ar-ssr://UouhaHx1NaDslSm1CWXyiiMnpv/a8VoSWZoVbtkfZBwKjAhHvQ+aRjrw8rLZ6orymKr81x/4+pa/fnIcTM7txdIXkdPRXwa7FXkp2zVjjaXFqGuapFC4RjgHewxYXW+1CZPrXlRFIb7ktYm1ETZ3TWIhe4kvrLRJQNrBiDRhFlzaG5oHRWuUHZExjwY/aY7i8ZdQEI9RV4ehcBi6qg5p9bjyRUYXLG+Un7VlIkKjBfM= # 🔒 [By EbraSha]
-trojan://Sp3eDVp@51.77.71.131:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.77.71.131-3848
-trojan://Sp3eDVp@51.77.71.131:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.77.71.131-4333
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click#🇳🇱 [AS20473] "The Constant Company #5 (infiniteinjera.semanticstrainer.click)
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click#🇳🇱 [AS20473] "The Constant Company #6 (infiniteinjera.semanticstrainer.click)
 trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-2
@@ -46,19 +13,18 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=
 trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 # 🔒 [By EbraSha]
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#AutoAiVPN20902280
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%40unvisible_drops%E2%9C%85%EF%B8%8F10
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#4FreeIran-5000
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#⚡ b2n.ir/v2ray-configs | 402
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#4FreeIran-5050
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&amp;security=tls&amp;host=sweden.vmaxpanel.com&amp;type=ws&amp;sni=sweden.vmaxpanel.com#🔰@Fast_2ray 👈سرورهای‌بیشتر
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#4FreeIran-5001
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#4FreeIran-5051
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=🔒 [By EbraSha]&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=🔒 [By EbraSha]&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#TR%20TROJAN-26%20%7C%20free-nodes
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A516
-trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#4FreeIran-5002
-trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#⚡ b2n.ir/v2ray-configs | 4
+trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A537
+trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#4FreeIran-5052
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=🔒 [By EbraSha]&path=🔒 [By EbraSha]&host=sweden.vmaxpanel.com # 🔒 [By EbraSha]
 trojan://TELEGRAM__JKVPN@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱➣@JKVPN
@@ -70,12 +36,13 @@ trojan://TEL_JKVPN@www.speedtest.net:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-J
 trojan://TEL_JKVPN@www.zula.ir:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ²🇳🇱@JKVPN
 trojan://TJCfE7Mx2YcA8kX8zg@nl1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL-149.50.75.116-0754
 trojan://TJCfE7Mx2YcA8kX8zg@nl2.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL-149.50.75.212-0778
-trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0601
+trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0629
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0908
-trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#4FreeIran-5009
+trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#4FreeIran-5059
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#US%20TROJAN-80%20%7C%20free-nodes
 trojan://VjXsgvA0s4@verarussia1.uspn.io:443/?type=ws&host=verarussia1.uspn.io&path=%2Ftrojan&security=tls&sni=verarussia1.uspn.io#AutoAiVPN15224028
 trojan://ZQfFH4SFbF7aUZKjv9DQqrpY@185.189.58.195:23874?security=none&type=ws&host=185.189.58.195&path=%2fws#%f0%9f%87%a9%f0%9f%87%aa%20DE%2020
+trojan://ZQfFH4SFbF7aUZKjv9DQqrpY@185.189.58.195:23874?security=none&type=ws&host=185.189.58.195&path=/ws#🇩🇪 124 - DE - Trojan/WS/TLS - 23874
 trojan://ZQfFH4SFbF7aUZKjv9DQqrpY@185.189.58.195:23874?type=ws&security=none&host=185.189.58.195&path=/ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-13470
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#4Mohsen-4152
@@ -89,21 +56,19 @@ trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4165
 trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
 trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2168
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2201
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2653
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls&sni=upload.soft98.download#%F0%9F%87%AB%F0%9F%87%B7FR-5.135.235.163-1056
+trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.230.196-4562
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20CCZZUU.TOP
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴[www.v2nodes.com] trojan-NO
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.230.196-0806
 trojan://a77ad20a55@ru1.connecton.surf:443?security=tls&sni=ru1.connecton.surf&allowInsecure=1&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_387
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp # 🔒 [By EbraSha]
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4179
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤯
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?fp=chrome&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&security=reality&sid=07&sni=www.google.com#0293 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?security=reality&sni=www.google.com&fp=random&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&spx=/&type=tcp#0402 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?fp=chrome&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&security=reality&sid=07&sni=www.google.com#0294 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?security=reality&sni=www.google.com&fp=random&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&spx=/&type=tcp#0706 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp # 🔒 [By EbraSha]
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4181
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💯
@@ -123,11 +88,11 @@ trojan://b2fbaeb0-e27b-4434-a8e3-9c5ad41885e6@104.238.190.156:443?security=tls&s
 trojan://b35cd4e8-e193-4bbd-9084-91d73d2353f0@i.badboys.gq:443?mode=multi&security=tls&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-trgrpc&sni=nl1.digi2023game.com#%40ConfigV2RayNGvmess://eyJhZGQiOiJucGFuZWwuZGlnaTIwMjNnYW1lLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibnBhbmVsLmRpZ2kyMDIzZ2FtZS5jb20iLCJpZCI6ImIzNWNkNGU4LWUxOTMtNGJiZC05MDg0LTkxZDczZDIzNTNmMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vOHE5T0hlclI5TEk0amhyVEVTVnhwRjBYL3ZtZXNzd3MiLCJwb3J0IjoiODAiLCJwcyI6IkBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vmess://eyJhZGQiOiJucGFuZWwuZGlnaTIwMjNnYW1lLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibnBhbmVsLmRpZ2kyMDIzZ2FtZS5jb20iLCJpZCI6ImIzNWNkNGU4LWUxOTMtNGJiZC05MDg0LTkxZDczZDIzNTNmMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vOHE5T0hlclI5TEk0amhyVEVTVnhwRjBYL3ZtZXNzd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJucGFuZWwuZGlnaTIwMjNnYW1lLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://09722a74-9b48-4bf3-eda3-bf0d2fa1b9e0@qw.mojavadd.space:48276?path=%2Fhalo&security=tls&encryption=none&host=soft98.ir&type=ws&sni=qw.mojavadd.space#%40ConfigV2RayNGvmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndlYnNoZWNhbmlyMy5zeW1vZGkubWwiLCJpZCI6ImVkZjk5MGQyLTBhMTItNDA2ZC1lMDQ5LWVhMmVjYjMxOWFlNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ldWJiRkZKYW5RcSIsInBvcnQiOiIyMDg3IiwicHMiOiJAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3ZWJzaGVjYW5pcjMuc3ltb2RpLm1sIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=trojan://telegram-id-privatevpns@18.170.53.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNGtrojan://395ab0f4-5fed-40e1-a96f-1a9568a2ccfc@id.artunnel57.host:443?security=tls&headerType=none&type=tcp&sni=id.artunnel57.host#Trojan_TCP_tlsvmess://eyJhZGQiOiIxOTAuOTMuMjQ1LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YyZmU4Yi01MGEyLTRkZjItOWEyYS04MGMyOTg1NWQ2MzAiLCJuZXQiOiJncnBjIiwicGF0aCI6ImRhZ2gubW9qYXZhZGQuc3BhY2UiLCJwb3J0IjoiMjA1MyIsInBzIjoiQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiZGFnaC5tb2phdmFkZC5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9vless://b35cd4e8-e193-4bbd-9084-91d73d2353f0@npanel.digi2023game.com:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-vlgrpc&sni=npanel.digi2023game.com#%40ConfigV2RayNGtrojan://1eb9fcd3-4875-4eae-a66e-bb054b84384d@id.artunnel57.host:443?path=%2Ftrojan-tls&security=tls&host=id.artunnel57.host&type=ws&sni=id.artunnel57.host#Trojan_WS_tlsvmess://eyJhZGQiOiJpZC5hcnR1bm5lbDU3Lmhvc3QiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlkLmFydHVubmVsNTcuaG9zdCIsImlkIjoiYWMyMmM5MjctZjhjMS00M2I0LTg4ZGItNjBlYzdhYmJmNTlhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLW50bHMiLCJwb3J0IjoiODAiLCJwcyI6IlZtZXNzX1dTX250bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space#%40ConfigV2RayNGvmess://eyJhZGQiOiJpZC5hcnR1bm5lbDU3Lmhvc3QiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlkLmFydHVubmVsNTcuaG9zdCIsImlkIjoiYWMyMmM5MjctZjhjMS00M2I0LTg4ZGItNjBlYzdhYmJmNTlhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXRscyIsInBvcnQiOiI0NDMiLCJwcyI6IlZtZXNzX1dTX3RscyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpZC5hcnR1bm5lbDU3Lmhvc3QiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YyZmU4Yi01MGEyLTRkZjItOWEyYS04MGMyOTg1NWQ2MzAiLCJuZXQiOiJncnBjIiwicGF0aCI6ImRhZ2gubW9qYXZhZGQuc3BhY2UiLCJwb3J0IjoiMjA1MyIsInBzIjoiQENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiZGFnaC5tb2phdmFkZC5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9trojan://b35cd4e8-e193-4bbd-9084-91d73d2353f0@npanel.digi2023game.com:443?mode=multi&security=tls&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-trgrpc&sni=npanel.digi2023game.com#%40ConfigV2RayNG
 trojan://b4b043c0-1eed-4018-a018-a4919efeba24@de2-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-139.59.130.9-0908
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80/?type=tcp&security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8176
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8009
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8060
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8285
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#4FreeIran-5074
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#4FreeIran-5123
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#4Mohsen-4228
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#⚡ b2n.ir/v2ray-configs | 342
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#⚡ b2n.ir/v2ray-configs | 340
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80 # 🔒 [By EbraSha]
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80#这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用:)
 trojan://b6825e95-39b1-4e99-98c2-7b344f0f698a@other.kunlun-ppg.com:10848?type=tcp&sni=alibaba-node.cn&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A6%F0%9F%87%B9_AT_%E5%A5%A5%E5%9C%B0%E5%88%A9
@@ -136,10 +101,10 @@ trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4230
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💘
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://b7a98e8c-6538-41ee-99d2-2bbc4280062e@87.252.237.151:443?type=tcp&security=reality&pbk=iGI1n3BaIsBak5AM8ETNZzopCTJPMGCkZrNi_hOKC2k&fp=random&sni=www.google.com&sid=09&spx=/#0185 | 🇧🇾 Belarus | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://b7a98e8c-6538-41ee-99d2-2bbc4280062e@87.252.237.151:443?fp=chrome&pbk=iGI1n3BaIsBak5AM8ETNZzopCTJPMGCkZrNi_hOKC2k&security=reality&sid=09&sni=www.google.com&type=tcp#0165 | 🇧🇾 Belarus | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1511
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security=tls&sni=ba24.ir&allowInsecure=1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1153
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1182
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1563
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/?type=tcp&security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40teamvpnpro%20%5B7%5D
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40teamvpnpro%20%5B7%5D
@@ -178,11 +143,11 @@ trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&a
 trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
 trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
 trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
-trojan://bpb-trojan@russia.com:443?alpn=h3&host=bpb.wdgg1979.cloudns.org&path=/tr&sni=bpb.wdgg1979.cloudns.org&type=ws#0723 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://bpb-trojan@russia.com:443?alpn=h3&host=bpb.wdgg1979.cloudns.org&path=/tr&sni=bpb.wdgg1979.cloudns.org&type=ws#1899 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://bpb-trojan@russia.com:443?security=tls&sni=bpb.wdgg1979.nyc.mn&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=bpb.wdgg1979.nyc.mn&path=%2Ftr%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-16603
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.64-1466
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.64-1495
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.64-1876
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.66-1419
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.66-1448
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.66-1829
 trojan://c1b7af78-3ca6-4055-9df0-4ede98292a19@51.195.202.124:443?security=tls&sni=uk2.trojanvpn.de&type=ws&host=uk2.trojanvpn.de&path=%2Fwebsocket#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8C%8D%20FR-51.195.202.124%3A443%20%F0%9F%93%A1%20PING-075.13-MS
 trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp # 🔒 [By EbraSha]
@@ -196,7 +161,7 @@ trojan://c33883045c@198.244.252.93:443?security=tls&sni=uk1.connecton.surf#%F0%9
 trojan://c33883045c@uk1.connecton.surf:443?security=tls&sni=uk1.connecton.surf#%F0%9F%87%AC%F0%9F%87%A7GB-198.244.252.93-0349
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@nl2-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-134.209.90.171-5354
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443/?type=tcp&security=tls&sni=customer-95-164-85-39.stark-industries.solutions&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29
-trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.75.76.22-2164
+trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.75.76.22-2197
 trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.75.76.22-2649
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.163:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc&serviceName=m3u8#👉🆔@v2ray_configs_pool📡🇬🇧®️United
 trojan://c6677829-5644-427a-996d-5ac4d3223c03@250407.jichang.my:34865/?type=tcp&security=tls&sni=zurich.678789.xyz#12%F0%9F%AA%86%40oneclickvpnkeys
@@ -213,10 +178,11 @@ trojan://ccBIufLBGd@ge1.v2vml.ga:16548#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA-
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls # 🔒 [By EbraSha]
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.139.234.73-3121
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#4Mohsen-4317
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#%F0%9F%87%AD%F0%9F%87%B0HK-104.208.100.101-4118
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#%F0%9F%87%AD%F0%9F%87%B0HK-104.208.100.101-4151
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#%F0%9F%87%AD%F0%9F%87%B0HK-104.208.100.101-4603
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#4FreeIran-5126
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#4FreeIran-5170
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#4Mohsen-4321
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#⚡ b2n.ir/v2ray-configs | 728
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443/?type=tcp&security=tls # 🔒 [By EbraSha]
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.153.77-2497
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls # 🔒 [By EbraSha]
@@ -245,7 +211,6 @@ trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443/?type=tcp&securi
 trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B8%F0%9F%87%AASE-193.233.114.58-1212
 trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.195.101.222-5280
-trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?fp=chrome&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&security=reality&sid=3e&sni=www.google.com#0230 | 🇷🇺 Russia | TROJAN | TG: @YoutubeUnBlockRu
 trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?security=reality&sni=www.google.com&fp=random&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&sid=3e&spx=/&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-19000
 trojan://dXCKvrczl7@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱➣@JKVPN
 trojan://dXCKvrczl7@www.zula.ir:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ³🇳🇱➣@JKVPN
@@ -254,7 +219,7 @@ trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&secur
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#4Mohsen-4347
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#🔥Join+Telegram:@Farah_VPN🟣
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8608
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8659
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8884
 trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@193.227.99.55:443?path=/RGikK8PMHRUZInjQYjx&security=tls&alpn=http/1.1&host=cdn.miladfaryad.cf&fp=chrome&type=ws&sni=cdn.miladfaryad.cf#رایگان | TROJAN | @proxystore11 | NL🇳🇱 | 0️⃣1️⃣
 trojan://dd6dcb10-4683-11f0-ae79-1239d0255272@51.38.65.155:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-5376
@@ -268,12 +233,12 @@ trojan://de5a47b3e2@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=
 trojan://dee78410-ca13-11ed-852d-1239d0255272@179.61.251.158:443/?type=tcp&security=tls&sni=de-1.test3.net&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B45%5D
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=akharinkhabar.ir&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-17364
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7992
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8043
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8268
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=fr1.trojanvh.xyz&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-17360
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7990
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8041
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8266
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7996
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8047
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8272
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_065
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-9014
@@ -318,10 +283,10 @@ trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@5.104.108.120:443?allowInsecure=0&
 trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@5.104.108.120:443?type=tcp&sni=20-24-33-134.nhost.00cdn.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443/?type=tcp&security=tls&sni=joss.gpj4.web.id#%F0%9F%87%B1%F0%9F%87%BALU-107.189.3.96-1017
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls&sni=uk01.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-183.56.247.206-042
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls&sni=uk01.ckcloud.info#4FreeIran-5213
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls&sni=uk01.ckcloud.info#4FreeIran-5255
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls&sni=uk01.ckcloud.info#4Mohsen-4461
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3CN-58.247.254.191-043
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#4FreeIran-5240
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#4FreeIran-5282
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#4Mohsen-4488
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct001.theyydsnode.top:52758?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD02%E3%80%90vip1%E3%80%91
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct002.theyydsnode.top:44532?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD01%E3%80%90vip1%E3%80%91
@@ -330,7 +295,7 @@ trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni
 trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni=data-us.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8180
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8988
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8013
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8064
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8289
 trojan://fWCdFcWBZ8@27.0.175.159:1935?security=tls&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8ES-27.0.175.159-0182
 trojan://fWCdFcWBZ8@free-v2ray-panel.devefun.ink:1935?security=tls&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8ES-27.0.175.159-17187
@@ -345,52 +310,52 @@ trojan://hByrXHXE8v@www.speedtest.net:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_
 trojan://hByrXHXE8v@www.zula.ir:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&headerType=&type=tcp&sni=x1ch-ovh.devefun.net#France
 trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-504ms-SCALEWAY
 trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-444ms-Scaleway%20SAS
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-436ms-Scaleway%20SAS
-trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-437ms-Scaleway%20SAS
+trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-569ms-Scaleway%20SAS
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-471ms-Scaleway%20SAS
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-452ms-Scaleway%20SAS
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-421ms-SCALEWAY
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🇫🇷[www.v2nodes.com] Trojan VPN-FR-12654846
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-498ms-Scaleway%20SAS
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-518ms-SCALEWAY
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-472ms-SCALEWAY
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-433ms-Scaleway%20SAS
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-550ms-Scaleway%20SAS
 trojan://humanity@104.18.13.149:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-439ms-SCALEWAY
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-766ms-Scaleway%20SAS
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#MHH👉meliproxyy👈🇩🇪All⁵ | @meliproxyy
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-436ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-479ms-SCALEWAY
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40Proxy_sh
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-435ms-Scaleway%20SAS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-428ms-SCALEWAY
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-446ms-Scaleway%20SAS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-526ms-Scaleway%20SAS
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-445ms-SCALEWAY
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-459ms-SCALEWAY
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-593ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-511ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-456ms-SCALEWAY
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-518ms-Scaleway%20SAS
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-433ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-460ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[By EbraSha] trojan-NL 🔒
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-12667339
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13601304
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13623524
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13640223
 trojan://humanity@104.18.32.47:443?path=/assignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#🇫🇷 |⚡@EuServer
 trojan://humanity@104.18.32.47:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#🇫🇷@FreakConfig
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-432ms-Scaleway%20SAS
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-431ms-SCALEWAY
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&amp;security=tls&amp;host=www.gossipglove.com&amp;type=ws&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20%40FreakConfig
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-404ms-SCALEWAY
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-532ms-Scaleway%20SAS
 trojan://humanity@104.21.40.34:443?path=/assignment&amp;security=tls&amp;host=www.gossipglove.com&amp;type=ws&amp;sni=www.gossipglove.com#🇫🇷 @v2reybot_game
 trojan://humanity@104.21.40.34:443?path=/assignment&amp;security=tls&amp;host=www.gossipglove.com&amp;type=ws&amp;sni=www.gossipglove.com#🇫🇷@vpn_ioss ♻️ سرورهای بیشتر عضو شو
 trojan://humanity@104.21.40.34:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#🇫🇷 @FreakConfig
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-452ms-SCALEWAY
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-409ms-SCALEWAY
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-783ms-Scaleway%20SAS
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#🇫🇷[www.v2nodes.com] Trojan VPN-FR-12654846
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-499ms-Scaleway%20SAS
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 @ProxyVPN11
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 @ProxyVPN11
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @ProxyVPN11
@@ -398,10 +363,10 @@ trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&p
 trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@172.64.149.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40Config0plus%20%F0%9F%87%B3%F0%9F%87%B1%20NL
 trojan://humanity@172.64.149.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.64.149.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-482ms-SCALEWAY
+trojan://humanity@172.64.149.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-635ms-Scaleway%20SAS
 trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-463ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-480ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-492ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-495ms-Scaleway%20SAS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;sni=www.gossipglove.com#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -409,17 +374,18 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;inse
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-497ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-538ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-426ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-432ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-641ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-484ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-512ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-477ms-SCALEWAY
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-531ms-Scaleway%20SAS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20%40Proxy_sh
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-450ms-SCALEWAY
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-405ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-655ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-435ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[By EbraSha] trojan-NL 🔒
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13597811
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-582ms-SCALEWAY
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-466ms-Scaleway%20SAS
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#@FreeStrongVpn - 🇵🇱
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#@FreeStrongVpn 🇵🇱
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#🇵🇱 |⚡@EuServer
@@ -430,50 +396,51 @@ trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecu
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#🇫🇷@FreakConfig
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#🇵🇱@FreakConfig
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#🇳🇱 @FreakConfig
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-443ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-481ms-Scaleway%20SAS
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-585ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-526ms-SCALEWAY
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-497ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-502ms-Scaleway%20SAS
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#🇵🇱[www.v2nodes.com] Trojan VPN-PL-12692079
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-432ms-Scaleway%20SAS
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-483ms-Scaleway%20SAS
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-471ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-452ms-Scaleway%20SAS
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-491ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-503ms-Scaleway%20SAS
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-12854793
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-462ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-480ms-Scaleway%20SAS
 trojan://humanity@172.67.180.92:443?path=/assignment&amp;security=tls&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#🇩🇪@vpn_ioss ♻️ سرورهای بیشتر عضو شو
 trojan://humanity@172.67.180.92:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#🇳🇱@FreakConfig
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-453ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-459ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱[By EbraSha] trojan-NL 🔒
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13597822
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-508ms-Scaleway%20SAS
-trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-430ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-489ms-Scaleway%20SAS
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-571ms-Scaleway%20SAS
 trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇪🇸 ES | 185.18.250.245
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-447ms-Scaleway%20SAS
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#🇪🇸 171 - ES - Trojan/WS/TLS - 443
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-486ms-SCALEWAY
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#🇪🇸 169 - ES - Trojan/WS/TLS - 443
 trojan://humanity@185.18.250.252:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#0078 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-450ms-SCALEWAY
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇪🇸 172 - ES - Trojan/WS/TLS - 443
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-824ms-Scaleway%20SAS
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇪🇸 170 - ES - Trojan/WS/TLS - 443
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%AB%F0%9F%87%B7France%2B%E2%9A%A1%40DeamNet_Proxy
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-491ms-Scaleway%20SAS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-444ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-532ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-468ms-SCALEWAY
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-482ms-Scaleway%20SAS
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-424ms-SCALEWAY
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-474ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-611ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-633ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-454ms-Scaleway%20SAS
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-498ms-Scaleway%20SAS
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-453ms-SCALEWAY
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇳🇱] [tr-tl-ws] [260426-135502.806]
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-517ms-Scaleway%20SAS
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇫🇷] [tr-tl-ws] [260426-193835.661]
 trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
@@ -481,20 +448,53 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chtt
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-416ms-Scaleway%20SAS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-423ms-Scaleway%20SAS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-447ms-Scaleway%20SAS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-447ms-SCALEWAY
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-491ms-SCALEWAY
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-439ms-SCALEWAY
 trojan://humanity@188.114.98.0:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#🇵🇱@FreakConfig
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-445ms-Scaleway%20SAS
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-418ms-Scaleway%20SAS
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-458ms-SCALEWAY
 trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-461ms-SCALEWAY
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-456ms-SCALEWAY
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[By EbraSha] trojan-FR 🔒
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[openproxylist.com] trojan-FR
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[www.v2nodes.com] Trojan VPN-FR-13729239
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-446ms-Scaleway%20SAS
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-532ms-Scaleway%20SAS
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-465ms-SCALEWAY
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-479ms-SCALEWAY
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷[By EbraSha] trojan-FR 🔒
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷[openproxylist.com] trojan-FR
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷[www.v2nodes.com] Trojan VPN-FR-13693689
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-463ms-Scaleway%20SAS
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-482ms-Scaleway%20SAS
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-465ms-SCALEWAY
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[@Amirhossein_Mahboobi]
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1723
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1769
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1741
+trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-478ms-Scaleway%20SAS
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-448ms-SCALEWAY
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-617ms-Scaleway%20SAS
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-535ms-Scaleway%20SAS
+trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B5%F0%9F%87%B1-Warsaw-511ms-Scaleway%20SAS
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.6-1773
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.6-1803
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&Host=www.gossipglove.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.6-1720
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-656ms-Scaleway%20SAS
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-1528ms-Scaleway%20SAS
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱[By EbraSha] trojan-NL 🔒
