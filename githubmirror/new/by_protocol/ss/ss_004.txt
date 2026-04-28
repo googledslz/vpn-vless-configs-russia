@@ -140,7 +140,6 @@ ss://3821b50f-4389-43d7-b08f-7b9e2861bb95@www.visaeurope.ch:2086?path=%40ShadowP
 ss://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=reality&encryption=none&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=b7#AutoAiVPN12400788
 ss://393b50c8-c060-465f-b179-b1a824f52a03@nl7.fastlanehosting.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=marktplaats.nl&fp=chrome&security=reality&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&sid=9e#AutoAiVPN15979302
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#GB🇬🇧
-ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&amp;encryption=none&amp;security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp#%E2%98%98%EF%B8%8F35@oneclickvpnkeys
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#GB🇬🇧
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#GB🇬🇧
 ss://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#NL🇳🇱
@@ -498,3 +497,4 @@ ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=a
 ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://67c3f0a4-57ba-48ae-a091-d3114d4153c0@190.93.246.241:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=London.vipgermany.lol#MCI2
 ss://6896fa3d-f3d3-43c7-a742-ebc45a2c9f26@ov-france2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#AutoAiVPN8701105
+ss://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443?path=%2F&security=tls&encryption=none&host=rukawa.pages.dev&type=ws&sni=rukawa.pages.dev#%F0%9F%87%AE%F0%9F%87%B7%20IR%2017%20%40Outline_Vpn
