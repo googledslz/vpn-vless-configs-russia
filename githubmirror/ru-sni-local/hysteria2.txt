@@ -1,1 +1,0 @@
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?sni=live.ok.ru&insecure=1#RU   HYSTERIA2-TCP-NTLS  5.42.116.247
