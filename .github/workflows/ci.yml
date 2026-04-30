@@ -18,11 +18,13 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ Сбрасываем локальную ветку до состояния удалённой ПЕРЕД генерацией новых файлов
-      - name: Reset local branch to origin/main
+      # Полная очистка и сброс к состоянию удалённой ветки
+      - name: Force clean and reset to origin/main
         run: |
           git fetch origin main
+          git checkout main
           git reset --hard origin/main
+          git clean -fdx   # удаляет все неотслеживаемые файлы (__pycache__, логи, etc.)
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -57,3 +59,4 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
+          skip_fetch: true   # не делаем fetch повторно, чтобы избежать расхождений
