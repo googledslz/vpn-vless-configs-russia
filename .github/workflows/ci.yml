@@ -4,6 +4,11 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# Гарантируем, что одновременно запускается только один экземпляр воркфлоу
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -18,13 +23,13 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Полная очистка и сброс к состоянию удалённой ветки
+      # Полная синхронизация с удалённой веткой
       - name: Force clean and reset to origin/main
         run: |
           git fetch origin main
           git checkout main
           git reset --hard origin/main
-          git clean -fdx   # удаляет все неотслеживаемые файлы (__pycache__, логи, etc.)
+          git clean -fdx
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,6 +56,11 @@ jobs:
         run: python main.py
         timeout-minutes: 45
 
+      # Подтягиваем последние изменения (если за время выполнения скриптов кто-то запушил)
+      - name: Pull latest changes with rebase
+        run: |
+          git pull --rebase origin main
+
       - name: Commit & Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -59,4 +69,4 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
-          skip_fetch: true   # не делаем fetch повторно, чтобы избежать расхождений
+          # skip_fetch: false  # по умолчанию false, можно не указывать или явно задать false
