@@ -1,8 +1,13 @@
 name: Update VPN Configs
+
 on:
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -10,10 +15,17 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      # СБРАСЫВАЕМ ЛОКАЛЬНОЕ СОСТОЯНИЕ ПЕРЕД ВСЕМИ ОПЕРАЦИЯМИ
+      - name: Reset to origin/main (clean local state)
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,17 +41,14 @@ jobs:
       - name: Run mirror.py
         run: python mirror.py
 
-      # ✅ КЛЮЧЕВОЙ ШАГ: удаляем все локальные коммиты (которые не были запушены)
-      - name: Reset to origin/main
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
+      - name: Pull latest changes (with autostash)
+        run: git pull --rebase --autostash origin main
 
       - name: Commit new configs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update"
-          file_pattern: "."                     # добавит всё, включая config_sources.json
+          file_pattern: "."
           branch: main
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
