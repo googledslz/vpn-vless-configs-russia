@@ -1,6 +1,11 @@
 name: Convert extra mermeroo sources
+
 on:
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false    # новый запуск будет ждать, а не отменять текущий
 
 jobs:
   convert-extra:
@@ -31,6 +36,9 @@ jobs:
 
       - name: Convert extra sources to URI list
         run: python convert_extra_sources.py
+
+      - name: Pull latest changes (with autostash)
+        run: git pull --rebase --autostash origin main
 
       - name: Commit & push converted list
         uses: stefanzweifel/git-auto-commit-action@v5
