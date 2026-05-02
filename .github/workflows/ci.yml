@@ -1,17 +1,15 @@
+**auto_key_checker.yml**
+```yaml
 name: Auto Key Checker
-
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
-
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
-
 permissions:
   contents: write
-
 jobs:
   check-keys:
     runs-on: ubuntu-latest
@@ -22,41 +20,35 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Reset to origin/main (clean local state)
         run: |
           git fetch origin main
           git reset --hard origin/main
           git clean -fdx
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-
       - name: Create config_sources.json from VPN_SOURCES secret
         run: echo '${{ secrets.VPN_SOURCES }}' > config_sources.json
-
       - name: Update githubmirror (mirror.py)
         run: python mirror.py
         timeout-minutes: 30
-
       - name: Merge sources from proxy-collect manifest
         run: python proxy_collect_merge.py
-
       - name: Run Checker Script
         run: python main.py
         timeout-minutes: 45
-
-      - name: Pull latest changes (with autostash)
-        run: git pull --rebase --autostash origin main
-
+      - name: Pull latest changes
+        run: |
+          git stash --include-untracked || true
+          git pull --rebase origin main
+          git stash pop || true
       - name: Commit & Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -65,3 +57,4 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
+```
