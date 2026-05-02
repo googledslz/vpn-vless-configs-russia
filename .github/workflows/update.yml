@@ -21,7 +21,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      # СБРАСЫВАЕМ ЛОКАЛЬНОЕ СОСТОЯНИЕ ПЕРЕД ВСЕМИ ОПЕРАЦИЯМИ
       - name: Reset to origin/main (clean local state)
         run: |
           git fetch origin main
