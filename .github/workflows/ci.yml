@@ -1,5 +1,3 @@
-**auto_key_checker.yml**
-```yaml
 name: Auto Key Checker
 on:
   schedule:
@@ -57,4 +55,3 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           branch: main
-```
