@@ -1,8 +1,13 @@
 name: Parse mermeroo SUB LINKS
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   run-parser:
@@ -33,6 +38,9 @@ jobs:
 
       - name: Run parser
         run: python parse_mermeroo.py
+
+      - name: Pull latest changes (with autostash)
+        run: git pull --rebase --autostash origin main
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
