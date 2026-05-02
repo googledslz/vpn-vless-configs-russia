@@ -5,7 +5,7 @@ on:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: false    # новый запуск будет ждать, а не отменять текущий
+  cancel-in-progress: false
 
 jobs:
   convert-extra:
