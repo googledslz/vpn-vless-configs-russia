@@ -1,14 +1,20 @@
 name: Parse, Compare & Merge mermeroo sources
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "15 */6 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   parse-compare-merge:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -38,6 +44,9 @@ jobs:
 
       - name: Merge new sources into config_sources.json
         run: python merge_mermeroo_to_config_sources.py
+
+      - name: Pull latest changes (with autostash)
+        run: git pull --rebase --autostash origin main
 
       - name: Commit & push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
