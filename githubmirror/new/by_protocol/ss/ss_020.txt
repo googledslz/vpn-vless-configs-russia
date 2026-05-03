@@ -1,3 +1,6 @@
+ss://b695a9d1-4c91-46a7-adae-09d80a44b6ed@tun2.abolfazl.ru:1874?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN10274199
+ss://b695a9d1-4c91-46a7-adae-09d80a44b6ed@tun5.abolfazl.ru:18740?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN10274201
+ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&type=tcp#GB🇬🇧
 ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&alpn=http%2F1.1%2Ch2&allowInsecure=1&fp=chrome#GB🇬🇧
 ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?allowInsecure=1&alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#NL🇳🇱
 ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net&type=tcp#NL🇳🇱
@@ -495,6 +498,3 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cGtPYUZJdythUEpJU1FXdno1dGNIYTluVUkvZUhSR1A
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cGtPYUZJdythUEpJU1FXdno1dGNIYTluVUkvZUhSR1AvWkpKMjEwRVNOaz0@ec2-13-50-108-230.eu-north-1.compute.amazonaws.com:80#AKB 🕊️ 782
 ss://ea69a1b0-2ee0-4379-9956-83d4d8d2deaf@kiliyanmbappe10.vtuix.space:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&spx=%2F%40khodee_alireza&type=grpc&serviceName=t.me/entryNET&sni=www.telewebion.com&sid=16b6cda7ab793526#AutoAiVPN11780181
 ss://ea69a1b0-2ee0-4379-9956-83d4d8d2deaf@russiasefid.vtuix.space:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&spx=%2F%40khodee_alireza&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#AutoAiVPN11781713
-ss://ea6a5c7f-8f15-4c64-bcc3-1c225556dda2@london.fonixapp.org:37447?security=reality&encryption=none&pbk=UJt_5rWa8ZDvpVS-oDKKHiPwm__36IvHNI1KDfvja3Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=ee84f20171b2ae#AutoAiVPN12621686
-ss://ea7ae912-3566-4b67-bf67-54397d5f8736@iri.hosmci.ir:35163?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.hosmci.ir&fp=chrome&type=ws&sni=de.hosmci.ir#DE🇩🇪
-ss://eaf2645e-e190-4d0e-8425-c5c8e84e8049@104.18.218.118:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=NEth80.eSFAhanSIMan.Co.uK.&type=ws&sni=NEth80.eSFAhanSIMan.Co.uK.#[🇺🇸]t.me/ConfigsHub`

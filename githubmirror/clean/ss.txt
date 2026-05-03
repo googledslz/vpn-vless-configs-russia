@@ -232,6 +232,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.28.15:22224?type=ws&security=tls
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.29.241:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15016237
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.29.54:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN11893302
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12050449
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.32.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14002832
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.41.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5887252
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.42.248:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2690918
@@ -1244,6 +1245,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.57.211:22224?type=ws&security=t
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.0.115:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12903001
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.147.157:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.151.28:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.19.242:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://055ee274-da3d-4bbd-acf1-a46f1df05c52@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=n1.abantrust.ir&amp;type=ws#V2rayng_Fast
 ss://0591dfc2-3823-4fd9-8353-39935995c7a4@cf-yx-us.sslw2.top:443?path=%2Fvless_ws%3Fed%3D4096&security=tls&encryption=none&insecure=0&host=cdn-mfuk.sw8.pw&type=ws&allowInsecure=0&sni=KRDIA5D0MweRtzvw.sw8.pw#AutoAiVPN15910001
 ss://05c5475e-c857-05b0-5e1f-3e7214ddb346@23.81.34.114:1003?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&host=mci.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=27e6b66aa77662fb#AutoAiVPN16490637
@@ -3102,7 +3104,7 @@ ss://YWVzLTEyOC1nY206QElyYW5Qcm94eQ==@free-trial.iranproxyapi.cfd:80#%F0%9F%87%A
 ss://YWVzLTEyOC1nY206S0FmZnk3b2llVkpZR0tGakh2VUUzZw==@141.95.106.33:1080#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.106.33-8798
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112:18292#🇫🇷FR%20%20ROSE—185
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#🇬🇧[www.v2nodes.com] Outline VPN-GB-13713884
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#🇬🇧[openproxylist.com] ss-GB
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#🇬🇧[By EbraSha] ss-GB 🔒
 ss://YWVzLTEyOC1nY206ZTQxYjhiMDAtZDk0MC00MDA2LTgwZmYtYmM3ODY1YjNiNWUw@v3-js-hk.as9929.uk:10061#中转节点-116.4KB/s
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40merdesert%20%5B3%5D
 ss://YWVzLTEyOC1nY206b3d1d2R4bzJxYXRjYjQydWQ4YTY@146.70.73.213:13812#Channel id: @ShadowProxy66🇮🇹
