@@ -1,13 +1,12 @@
 name: Auto Key Checker
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # каждые 6 часов
   workflow_dispatch:
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: false
+
 permissions:
   contents: write
+
 jobs:
   check-keys:
     runs-on: ubuntu-latest
@@ -18,40 +17,45 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Reset to origin/main (clean local state)
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-          git clean -fdx
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
+
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt requests
+
       - name: Create config_sources.json from VPN_SOURCES secret
         run: echo '${{ secrets.VPN_SOURCES }}' > config_sources.json
+
       - name: Update githubmirror (mirror.py)
         run: python mirror.py
         timeout-minutes: 30
+        env:
+          PYTHONUNBUFFERED: '1'
+
       - name: Merge sources from proxy-collect manifest
         run: python proxy_collect_merge.py
+        env:
+          PYTHONUNBUFFERED: '1'
+
       - name: Run Checker Script
         run: python main.py
         timeout-minutes: 45
-      - name: Pull latest changes
-        run: |
-          git stash --include-untracked || true
-          git pull --rebase origin main
-          git stash pop || true
+        env:
+          PYTHONUNBUFFERED: '1'
+
       - name: Commit & Push Results
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🤖 Auto-update keys & githubmirror"
-          file_pattern: "."
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
-          branch: main
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          # Коммитим локально только если есть изменения
+          git diff --cached --quiet || git commit -m "🤖 Auto-update keys & githubmirror"
+          # Rebase работает корректно — изменения уже в коммите, не unstaged
+          git pull --rebase origin main
+          git push origin main
