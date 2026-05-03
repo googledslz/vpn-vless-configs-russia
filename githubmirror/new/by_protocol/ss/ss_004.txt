@@ -1,5 +1,3 @@
-ss://219d848d-60f2-4321-8275-72b9b575b37e@104.21.112.147:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN9609878
-ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.223.156:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10561472
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.36.120:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN3804592
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8603474
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8151779
@@ -498,3 +496,5 @@ ss://671bbefc-3932-433e-b73f-e6de738db25a@snapp.ir:80?encryption=none&type=ws&pa
 ss://671bbefc-3932-433e-b73f-e6de738db25a@snapp.ir:80?path=%2F&security=none&encryption=none&host=n1.abantrust.ir&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20279ms
 ss://671bbefc-3932-433e-b73f-e6de738db25a@snapp.ir:80?path=%2F&security=none&encryption=none&host=n1.abantrust.ir&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20down
 ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+ss://67c3f0a4-57ba-48ae-a091-d3114d4153c0@190.93.246.241:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=London.vipgermany.lol#MCI2
