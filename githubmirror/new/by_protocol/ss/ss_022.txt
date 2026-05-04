@@ -1,3 +1,7 @@
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.78:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.78-8880+%7C+2.29ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.7:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.7-8880+%7C+2.18ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.83:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.83-8880+%7C+2.25ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.88:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.88-8880+%7C+2.7ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@91.193.58.94:8880#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+91.193.58.94-8880+%7C+2.58ms
 ss://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.130.219:80?type=ws&amp;host=alf17.ir&amp;path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://fb0bc4f7-2771-4223-8ffd-705469a039b7@158.160.223.36:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23229
