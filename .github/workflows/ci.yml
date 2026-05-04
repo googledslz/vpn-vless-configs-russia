@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: vpn-checker
+  cancel-in-progress: true  # ✅ только один запуск одновременно
+
 jobs:
   check-keys:
     runs-on: ubuntu-latest
@@ -54,8 +58,8 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add -A
-          # Коммитим локально только если есть изменения
+          # Коммитим только если есть изменения
           git diff --cached --quiet || git commit -m "🤖 Auto-update keys & githubmirror"
-          # Rebase работает корректно — изменения уже в коммите, не unstaged
-          git pull --rebase origin main
+          # -X ours: при конфликтах всегда берём нашу (свежую) версию файлов
+          git pull --rebase -X ours origin main
           git push origin main
